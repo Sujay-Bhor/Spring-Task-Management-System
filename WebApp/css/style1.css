@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+.progress-container {
+    width: 100%;
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+.progress-bar {
+    width: 0%;
+    height: 30px;
+    background-color: #4caf50;
+}
+
+.accept, .complete {
+    margin: 5px;
+    cursor: pointer;
+}
